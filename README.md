@@ -91,7 +91,7 @@ React • TypeScript • Node.js • Express.js • MongoDB • Google Maps API 
 https://github.com/Karthik01-k/community-ride-share
 
 **🌐 Live Demo:**  
-https://communityride-sharingprotocol.lovable.app/
+https://community-ride-share.vercel.app/
 
 ---
 
