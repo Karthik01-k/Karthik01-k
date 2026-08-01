@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://kurrakarthik-portfolio.lovable.app">🌐 Portfolio</a> •
+  <a href="https://kurrakarthik-portfolio.lovable.app">🌐 Portfolio</a> •
   <a href="https://github.com/Karthik01-k">💻 GitHub</a> •
   <a href="https://www.linkedin.com/in/kurra-karthik-ba69142ba/">🔗 LinkedIn</a> •
   <a href="https://leetcode.com/u/KURRA_KARTHIK/">🧩 LeetCode</a>
