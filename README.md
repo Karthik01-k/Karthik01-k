@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kurra-karthik-portfolio.vercel.app">🌐 Portfolio</a> •
+  <a href="https://https://kurrakarthik-portfolio.lovable.app">🌐 Portfolio</a> •
   <a href="https://github.com/Karthik01-k">💻 GitHub</a> •
   <a href="https://www.linkedin.com/in/kurra-karthik-ba69142ba/">🔗 LinkedIn</a> •
   <a href="https://leetcode.com/u/KURRA_KARTHIK/">🧩 LeetCode</a>
@@ -133,7 +133,7 @@ React • TypeScript • Tailwind CSS • Framer Motion • Shadcn UI • Vite
 https://github.com/Karthik01-k
 
 **🌐 Live Demo:**  
-https://kurra-karthik-portfolio.vercel.app/
+https://kurrakarthik-portfolio.lovable.app
 
 ---
 
